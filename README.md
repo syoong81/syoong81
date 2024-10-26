@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syoong81
+- 👋 Hi, I’m Sheng Yoong
 - 👀 I’m interested in Java,Javascript,React
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
